@@ -1,4 +1,4 @@
-# Vending Machine Money Tracker
+# Vending Machine Money 
 
 ## Overview
 
